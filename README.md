@@ -1,5 +1,5 @@
 # downTube ~AnthonyBata1
-Baixe vídeos e áudios do YouTube usando Python.
+Baixe vídeos e áudios do YouTube usando Python em melhor qualidade.
 
 Primeiro projeto postado aqui no GitHub, a ideia surgiu de madrugada, quando me lembrei das complicações que tive para baixar vídeo ou áudio do youtube.
 
