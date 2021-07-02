@@ -1,6 +1,6 @@
 # downTube ~AnthonyBata1
-Download videos and audios from YouTube using Python.
+Baixe vídeos e áudios do YouTube usando Python.
 
-First project posted here on GitHub, the idea came at dawn, when I remembered the complications I've had to download video or audio from youtube.
+Primeiro projeto postado aqui no GitHub, a ideia surgiu de madrugada, quando me lembrei das complicações que tive para baixar vídeo ou áudio do youtube.
 
-You can use it at will, it might even save you someday. :D
+Você pode usá-lo à vontade, pode até salvá-lo algum dia. : D
