@@ -6,7 +6,7 @@ import os
 #coding: utf-8
 
 #definindo nome de titulo
-windll.kernel32.SetConsoleTitleW("downTube  ~Anthony")
+windll.kernel32.SetConsoleTitleW("downTube v0.0.1  ~Anthony")
 
 escolha = True
 
